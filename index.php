@@ -7,6 +7,29 @@
 
         <link rel="stylesheet" href="css/style.css" />
         
+
+        <style>
+
+            * {
+                margin: 0;
+                padding: 0;
+                    
+            }
+            body{
+                background-image: url("imagens/logo.png") ;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: cover;
+                
+            }
+            p{
+                border: 1px solid red;
+            }
+            h1 {
+                background: pink;
+            }
+</style>
+
 </head>
 <body>
     
