@@ -13,13 +13,18 @@
             * {
                 margin: 0;
                 padding: 0;
-                    
+                box-sizing: border-box;
             }
             body{
-                background-image: url("imagens/logo.png") ;
+               /* background-image: url("imagens/logo.png") ;
                 background-repeat: no-repeat;
                 background-position: center;
-                background-size: cover;
+                background-size: cover;*/
+                border: 1Opx solid red;
+                width: 70vw;
+                height: 100vw;
+                overflow: ocult;
+                
                 
             }
             p{
@@ -27,6 +32,13 @@
             }
             h1 {
                 background: pink;
+                display: block;
+            }
+
+            .logo { 
+                position: absolute;
+                bottom: calc (100vh/2);
+                right: 0;
             }
 </style>
 
