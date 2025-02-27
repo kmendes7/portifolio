@@ -33,22 +33,25 @@
 
 
     </nav>
-    <div class="titles">
+        <div class="titles">
 
-        <h1 class="titulo">Entregando serviços de qualidade</h1>
-        <h1 class="subtitulo">Soluções em TI</h1>
+            <div class="container-titles">
 
-        <p class="paragrafo">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia, vero vitae provident officiis harum recusandae!</p>
-    </div>
+                <h1 class="titulo">Entregando serviços de qualidade</h1>
+                <h1 class="subtitulo">Soluções em TI</h1>
 
-    <div class="socialIcons">
+                <p class="paragrafo">O amor é um sentimento que ninguem jamais irá conseguir explicar e entender-la por completa!</p>
+            
+            </div>
 
-        <a href="#">Twitter</a>
-        <a href="#">Facebook</a>
-        <a href="#">LinkeDin</a>
-        <a href="#">Instagram</a>
+            <div class="socialIcons">
 
-    </div>
+                <a href="#">Twitter</a>
+                <a href="#">Facebook</a>
+                <a href="#">LinkeDin</a>
+                <a href="#">Instagram</a>
+            </div>
+        </div>
     </header>
 
 </div>
