@@ -138,6 +138,37 @@
 
         </section>
 
+        <section class="contato">
+
+            <h3 class="title-contato"> Fale conosco </h3>
+            <p class="sub-title">Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+
+            <div class="Container-contato">
+
+                <aside class="dados-contato">
+                    <h4 calss="titles-aside">Endereço</h4>
+                    <p class="txt-aside">Rua da Margaridas, S/N -Centro-  Manhuaçu/MG</p>
+                    <p class="txt-aside"> 33 3331-4881 </p>
+                    <p class="txt-aside"> 33 98483-2737</p>
+
+                    <h4 class="title-aside">E-mail</h4>
+                    <p class="txt-aside">contato@meusite.com.br </p>
+                    <p class="txt-aside">faleconosoco@meusite.com.br</p>
+                </aside>
+
+
+                <form action="" method="POST">
+
+                    <input type="text"  name="nome"   id="nome"    placeholder="Nome*"  required />
+                    <input type="email" name="email" id="email" placeholder="E-mail" required />
+                    <input type="text" name="assunto" id="assunto" placeholder="Assunto">
+                    <textarea name="mensagem" id="mensagem" placeholder="Mensagem" ></textarea> 
+
+                    <input type="submit" value="Enviar mensagem" />
+                </form>
+ 
+            </div>
+        </section>
 
     </main>
 
